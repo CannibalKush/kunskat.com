@@ -1,6 +1,6 @@
 // font stack
 @mixin font-stack($ff, $weight: normal) {
-  font-family: #{$ff}, Helvetica, Arial, sans-serif;
+  font-family: #{$ff}, Times New Roman , sans-serif;
   font-weight: $weight;
 }
 
